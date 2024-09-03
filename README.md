@@ -1,8 +1,6 @@
 # TikTokBoost 🎵
 
-<div align="center"><img src=https://i.pinimg.com/originals/f2/2b/cf/f22bcf30acbab8d3fdffaa10c7926d19.gif></div>
-
-TikTokBoost is a Python-based tool that allows you to automate various TikTok growth tasks such as liking, following, sharing, and viewing. This project is highly inspired by the [xtekky-zefoy](https://github.com/xtekky/zefoy) repository.
+TikTokBoost is a Python-based tool that allows you to automate various TikTok growth tasks such as liking, following, sharing, and viewing. This project is highly inspired by the [detetochudo-zefoy](https://github.com/xtekky/zefoy) repository.
 
 ## Update 11/2024
 
@@ -63,14 +61,6 @@ The script will guide you through the necessary steps to start automating your T
 ## Interface
 
 ```
-Modified by:
-██╗███████╗ █████╗ ██████╗ ██████╗  █████╗
-██║██╔════╝██╔══██╗██╔══██╗██╔══██╗██╔══██╗
-██║█████╗  ███████║██████╔╝██████╔╝███████║
-██║██╔══╝  ██╔══██║██╔══██╗██╔══██╗██╔══██║
-██║██║     ██║  ██║██║  ██║██║  ██║██║  ██║
-╚═╝╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
-
  [-] Select your option below.
 
  [1] followers [OFFLINE]
@@ -83,10 +73,6 @@ Modified by:
 ```
 
 > The availability of the feature depends on the third-party Zefoy.com
-
-## Demo (old version)
-
-https://github.com/user-attachments/assets/1747b5ef-9b62-45c0-b3dc-8b1dfcadf86f
 
 ## Disclaimer
 
