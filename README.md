@@ -1,6 +1,6 @@
 # TikTokBoost 🎵
 
-TikTokBoost is a Python-based tool that allows you to automate various TikTok growth tasks such as liking, following, sharing, and viewing. This project is highly inspired by the [detetochudo-zefoy](https://github.com/xtekky/zefoy) repository.
+TikTokBoost is a Python-based tool that allows you to automate various TikTok growth tasks such as liking, following, sharing, and viewing. This project is highly inspired by detetochudo.
 
 ## Update 11/2024
 
